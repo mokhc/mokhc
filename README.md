@@ -1,4 +1,4 @@
-## Hi there, this is Hon Chuen. 👋
+## Hi there. 👋
 
 <!--
 **mokhc/mokhc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
